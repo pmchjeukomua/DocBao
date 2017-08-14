@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_setting"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="@dimen/activity_vertical_margin">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/getnotification"
+            android:textAllCaps="false"
+            android:textColor="@color/textcolor_about"
+            android:textSize="@dimen/textsize_setting" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/switchGetNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:showText="true"
+            app:switchTextAppearance="@style/Color1SwitchStyle" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textcolor_about"
+            android:textSize="16sp"
+            android:text="@string/time" />
+        <Button
+            android:id="@+id/btnSetTimeGetNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/textsize_pubdate_news"
+            android:textColor="@color/textcolor_about"
+            android:background="@drawable/state_button_time_getnotification"
+            android:padding="@dimen/padding_time_getnotification"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#90c6d4"
+        android:layout_marginTop="@dimen/margin_top_time_getnotification"/>
+
+
+
+</LinearLayout>

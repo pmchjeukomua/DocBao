@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textsize_textview_dialog"
+        android:text="@string/sure_delete_all"
+        android:gravity="center"
+        android:textColor="@color/color_title_textview_itemnews"
+        android:padding="@dimen/t_b_paddingtextview" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnCancelDeleteAll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:background="@drawable/state_button"
+            android:textColor="@color/color_title_textview_itemnews"
+            android:layout_marginEnd="10dp"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/btnConfirmDeleteAll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm"
+            android:textAllCaps="false"
+            android:background="@drawable/state_button"
+            android:textColor="@color/color_title_textview_itemnews" />
+    </LinearLayout>
+</LinearLayout>

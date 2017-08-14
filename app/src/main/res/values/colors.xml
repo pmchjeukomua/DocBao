@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24a70c</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_title_textview_itemnews">#09092b</color>
+    <color name="color_description_textview_itemnews">#15153e</color>
+    <color name="color_text_textview_title_readingnews">#15153e</color>
+    <color name="color_text_textview_pubdate_readingnews">#895e4f</color>
+    <color name="color_text_textview_first_readingnews">#212945</color>
+    <color name="background_tab_selected">#7faee1</color>
+    <color name="background_tab_unselected">#ec643e</color>
+    <color name="textcolor_about">#25487c</color>
+    <color name="background_cardview_news">#fafafa</color>
+    <color name="background_floatingbutton">#85a13a</color>
+    <color name="background_recyclerview">#eeeeee</color>
+    <color name="background_swipe">#3a3d73</color>
+</resources>

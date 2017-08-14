@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_setting">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="h_tablayout">48dp</dimen>
+    <dimen name="w_h_imageview">40dp</dimen>
+    <dimen name="textsize_title_news">17sp</dimen>
+    <dimen name="textsize_description_news">16sp</dimen>
+    <dimen name="textsize_pubdate_news">13sp</dimen>
+    <dimen name="t_b_paddingtextview">10dp</dimen>
+    <dimen name="w_image_readingnews">200dp</dimen>
+    <dimen name="h_image_readingnews">160dp</dimen>
+    <dimen name="padding_title_textview_readingnews">5dp</dimen>
+    <dimen name="padding_fragment_readingnews">10dp</dimen>
+    <dimen name="margin_left_textview_readingnews">5dp</dimen>
+    <dimen name="margin_bottom_textview_readingnews">5dp</dimen>
+    <dimen name="margin_bottom_image_readingnews">10dp</dimen>
+    <dimen name="w_h_logo">120dp</dimen>
+    <dimen name="margintop_textview_description_itemnews">3dp</dimen>
+    <dimen name="textsize_about">17dp</dimen>
+    <dimen name="cardElevation">2dp</dimen>
+    <dimen name="padding_fragment_news">5dp</dimen>
+    <dimen name="padding_cardview">8dp</dimen>
+    <dimen name="padding_image_itemnews">5dp</dimen>
+    <dimen name="textsize_textview_dialog">18sp</dimen>
+    <dimen name="margin_right_image_news">8sp</dimen>
+    <dimen name="margin_top_time_getnotification">5dp</dimen>
+    <dimen name="padding_time_getnotification">5dp</dimen>
+    <dimen name="textsize_setting">20sp</dimen>
+</resources>

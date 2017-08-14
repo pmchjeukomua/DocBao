@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">DocBao</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nointernet">Không có kết nối mạng</string>
+    <string name="exit">Thoát</string>
+    <string name="loading">Đang tải...</string>
+    <string name="shareonfacebook">Share On Facebook</string>
+    <string name="trangchu">Trang chủ</string>
+    <string name="tintuc">Tin tức</string>
+    <string name="bongda">Bóng đá</string>
+    <string name="anninh">An ninh - Hình sự</string>
+    <string name="thoitrang">Thời trang</string>
+    <string name="taichinh">Tài chính</string>
+    <string name="amthuc">Ẩm thực</string>
+    <string name="lamdep">Làm đẹp</string>
+    <string name="phim">Phim</string>
+    <string name="giaoduc">Giáo dục</string>
+    <string name="cuocsong">Cuộc sống</string>
+    <string name="canhac">Ca nhạc</string>
+    <string name="thethao">Thể thao</string>
+    <string name="phithuong">Phi thường</string>
+    <string name="cntt">CNTT</string>
+    <string name="otoxemay">Ô tô - Xe máy</string>
+    <string name="thitruong">Thị trường</string>
+    <string name="dulich">Du lịch</string>
+    <string name="suckhoe">Sức khỏe</string>
+    <string name="cuoi">Cười</string>
+    <string name="thegioi">Thế giới</string>
+    <string name="showbiz">Showbiz</string>
+    <string name="giaitri">Giải trí</string>
+    <string name="thoisu">Thời sự</string>
+    <string name="giadinh">Gia đình</string>
+    <string name="khoahoc">Khoa học</string>
+    <string name="sohoa">Số hóa</string>
+    <string name="xe">Xe</string>
+    <string name="congdong">Cộng đồng</string>
+    <string name="tamsu">Tâm sự</string>
+
+    <string name="xahoi">Xã hội</string>
+    <string name="kinhdoanh">Kinh doanh</string>
+    <string name="sucmanhso">Sức mạnh số</string>
+    <string name="tinhyeugioitinh">Tình yêu - Giới tính</string>
+    <string name="chuyenla">Chuyện lạ</string>
+    <string name="vieclam">Việc làm</string>
+    <string name="nhipsongtre">Nhịp sống trẻ</string>
+    <string name="tamlongnhanai">Tấm lòng nhân ái</string>
+    <string name="phapluat">Pháp luật</string>
+    <string name="bandoc">Bạn đọc</string>
+    <string name="diendan">Diễn đàn</string>
+    <string name="tuyensinh">Tuyển sinh</string>
+    <string name="blog">Blog</string>
+    <string name="vanhoa">Văn hóa</string>
+    <string name="duhoc">Du học</string>
+    <string name="doisong">Đời sống</string>
+    <string name="khoahoccongnghe">Khoa học - Công nghệ</string>
+    <string name="seagame28">SEA Game 28</string>
+
+    <string name="rsstrangchudantri">http://dantri.com.vn/trangchu.rss</string>
+    <string name="rsssuckhoedantri">http://dantri.com.vn/suc-khoe.rss</string>
+    <string name="rssxahoidantri">http://dantri.com.vn/xa-hoi.rss</string>
+    <string name="rssgiaitridantri">http://dantri.com.vn/giai-tri.rss</string>
+    <string name="rssgiaoducdantri">http://dantri.com.vn/giao-duc-khuyen-hoc.rss</string>
+    <string name="rssthethaodantri">http://dantri.com.vn/the-thao.rss</string>
+    <string name="rssthegioidantri">http://dantri.com.vn/the-gioi.rss</string>
+    <string name="rsskinhdoanhdantri">http://dantri.com.vn/kinh-doanh.rss</string>
+    <string name="rssotoxemaydantri">http://dantri.com.vn/o-to-xe-may.rss</string>
+    <string name="rsssucmanhsodantri">http://dantri.com.vn/suc-manh-so.rss</string>
+    <string name="rsstinhyeugioitinhdantri">http://dantri.com.vn/tinh-yeu-gioi-tinh.rss</string>
+    <string name="rsschuyenladantri">http://dantri.com.vn/chuyen-la.rss</string>
+    <string name="rssvieclamdantri">http://dantri.com.vn/viec-lam.rss</string>
+    <string name="rssnhipsongtredantri">http://dantri.com.vn/nhip-song-tre.rss</string>
+    <string name="rsstamlongnhanaidantri">http://dantri.com.vn/tam-long-nhan-ai.rss</string>
+    <string name="rssphapluatdantri">http://dantri.com.vn/phap-luat.rss</string>
+    <string name="rssbandocdantri">http://dantri.com.vn/ban-doc.rss</string>
+    <string name="rssdiendandantri">http://dantri.com.vn/dien-dan.rss</string>
+    <string name="rsstuyensinhdantri">http://dantri.com.vn/tuyen-sinh.rss</string>
+    <string name="rssblogdantri">http://dantri.com.vn/blog.rss</string>
+    <string name="rssvanhoadantri">http://dantri.com.vn/van-hoa.rss</string>
+    <string name="rssduhocdantri">http://dantri.com.vn/du-hoc.rss</string>
+    <string name="rssdulichdantri">http://dantri.com.vn/du-lich.rss</string>
+    <string name="rssdoisongdantri">http://dantri.com.vn/doi-song.rss</string>
+    <string name="rsskhoahoccongnghedantri">http://dantri.com.vn/khoa-hoc-cong-nghe.rss</string>
+    <string name="rssseagame28dantri">http://dantri.com.vn/sea-games-28.rss</string>
+
+    <string name="rsstrangchuvne">http://vnexpress.net/rss/tin-moi-nhat.rss</string>
+    <string name="rssthoisuvne">http://vnexpress.net/rss/thoi-su.rss</string>
+    <string name="rssthegioivne">http://vnexpress.net/rss/the-gioi.rss</string>
+    <string name="rssgiaitrivne">http://vnexpress.net/rss/giai-tri.rss</string>
+    <string name="rssthethaovne">http://vnexpress.net/rss/the-thao.rss</string>
+    <string name="rssphapluatvne">http://vnexpress.net/rss/phap-luat.rss</string>
+    <string name="rssgiaoducvne">http://vnexpress.net/rss/giao-duc.rss</string>
+    <string name="rsssuckhoevne">http://vnexpress.net/rss/suc-khoe.rss</string>
+    <string name="rssgiadinhvne">http://vnexpress.net/rss/gia-dinh.rss</string>
+    <string name="rssdulichvne">http://vnexpress.net/rss/du-lich.rss</string>
+    <string name="rsskhoahocvne">http://vnexpress.net/rss/khoa-hoc.rss</string>
+    <string name="rsssohoavne">http://vnexpress.net/rss/so-hoa.rss</string>
+    <string name="rssxevne">http://vnexpress.net/rss/oto-xe-may.rss</string>
+    <string name="rsscongdongvne">http://vnexpress.net/rss/cong-dong.rss</string>
+    <string name="rsstamsuvne">http://vnexpress.net/rss/tam-su.rss</string>
+    <string name="rsscuoivne">http://vnexpress.net/rss/cuoi.rss</string>
+
+
+    <string-array name="catalogdantri">
+        <item>@string/trangchu</item>
+        <item>@string/suckhoe</item>
+        <item>@string/xahoi</item>
+        <item>@string/giaitri</item>
+        <item>@string/giaoduc</item>
+        <item>@string/thethao</item>
+        <item>@string/thegioi</item>
+        <item>@string/kinhdoanh</item>
+        <item>@string/otoxemay</item>
+        <item>@string/sucmanhso</item>
+        <item>@string/tinhyeugioitinh</item>
+        <item>@string/chuyenla</item>
+        <item>@string/vieclam</item>
+        <item>@string/nhipsongtre</item>
+        <item>@string/tamlongnhanai</item>
+        <item>@string/phapluat</item>
+        <item>@string/bandoc</item>
+        <item>@string/diendan</item>
+        <item>@string/tuyensinh</item>
+        <item>@string/blog</item>
+        <item>@string/vanhoa</item>
+        <item>@string/duhoc</item>
+        <item>@string/dulich</item>
+        <item>@string/doisong</item>
+        <item>@string/khoahoccongnghe</item>
+        <item>@string/seagame28</item>
+    </string-array>
+
+
+    <string-array name="arrrrscatalogvnexpress">
+        <item>@string/rsstrangchuvne</item>
+        <item>@string/rssthoisuvne</item>
+        <item>@string/rssthegioivne</item>
+        <item>@string/rssgiaitrivne</item>
+        <item>@string/rssthethaovne</item>
+        <item>@string/rssphapluatvne</item>
+        <item>@string/rssgiaoducvne</item>
+        <item>@string/rsssuckhoevne</item>
+        <item>@string/rssgiadinhvne</item>
+        <item>@string/rssdulichvne</item>
+        <item>@string/rsskhoahocvne</item>
+        <item>@string/rsssohoavne</item>
+        <item>@string/rssxevne</item>
+        <item>@string/rsscongdongvne</item>
+        <item>@string/rsstamsuvne</item>
+        <item>@string/rsscuoivne</item>
+    </string-array>
+
+    <string-array name="catalogvnexpress">
+        <item>@string/trangchu</item>
+        <item>@string/thoisu</item>
+        <item>@string/thegioi</item>
+        <item>@string/giaitri</item>
+        <item>@string/thethao</item>
+        <item>@string/phapluat</item>
+        <item>@string/giaoduc</item>
+        <item>@string/suckhoe</item>
+        <item>@string/giadinh</item>
+        <item>@string/dulich</item>
+        <item>@string/khoahoc</item>
+        <item>@string/sohoa</item>
+        <item>@string/xe</item>
+        <item>@string/congdong</item>
+        <item>@string/tamsu</item>
+        <item>@string/cuoi</item>
+    </string-array>
+
+
+
+
+    <string-array name="arrrsscatalogdantri">
+        <item>@string/rsstrangchudantri</item>
+        <item>@string/rsssuckhoedantri</item>
+        <item>@string/rssxahoidantri</item>
+        <item>@string/rssgiaitridantri</item>
+        <item>@string/rssgiaoducdantri</item>
+        <item>@string/rssthethaodantri</item>
+        <item>@string/rssthegioidantri</item>
+        <item>@string/rsskinhdoanhdantri</item>
+        <item>@string/rssotoxemaydantri</item>
+        <item>@string/rsssucmanhsodantri</item>
+        <item>@string/rsstinhyeugioitinhdantri</item>
+        <item>@string/rsschuyenladantri</item>
+        <item>@string/rssvieclamdantri</item>
+        <item>@string/rssnhipsongtredantri</item>
+        <item>@string/rsstamlongnhanaidantri</item>
+        <item>@string/rssphapluatdantri</item>
+        <item>@string/rssbandocdantri</item>
+        <item>@string/rssdiendandantri</item>
+        <item>@string/rsstuyensinhdantri</item>
+        <item>@string/rssblogdantri</item>
+        <item>@string/rssvanhoadantri</item>
+        <item>@string/rssduhocdantri</item>
+        <item>@string/rssdulichdantri</item>
+        <item>@string/rssdoisongdantri</item>
+        <item>@string/rsskhoahoccongnghedantri</item>
+        <item>@string/rssseagame28dantri</item>
+    </string-array>
+
+    <string name="rsstintuc">http://www.24h.com.vn/upload/rss/tintuctrongngay.rss</string>
+    <string name="rssbongda">http://www.24h.com.vn/upload/rss/bongda.rss</string>
+    <string name="rssanninh">http://www.24h.com.vn/upload/rss/anninhhinhsu.rss</string>
+    <string name="rssthoitrang">http://www.24h.com.vn/upload/rss/thoitrang.rss</string>
+    <string name="rsstaichinh">http://www.24h.com.vn/upload/rss/taichinhbatdongsan.rss</string>
+    <string name="rssamthuc">http://www.24h.com.vn/upload/rss/amthuc.rss</string>
+    <string name="rsslamdep">http://www.24h.com.vn/upload/rss/lamdep.rss</string>
+    <string name="rssphim">http://www.24h.com.vn/upload/rss/phim.rss</string>
+    <string name="rssgiaoduc">http://www.24h.com.vn/upload/rss/giaoducduhoc.rss</string>
+    <string name="rsscuocsong">http://www.24h.com.vn/upload/rss/bantrecuocsong.rss</string>
+    <string name="rsscanhac">http://www.24h.com.vn/upload/rss/canhacmtv.rss</string>
+    <string name="rssthethao">http://www.24h.com.vn/upload/rss/thethao.rss</string>
+    <string name="rssphithuong">http://www.24h.com.vn/upload/rss/phithuongkyquac.rss</string>
+    <string name="rsscntt">http://www.24h.com.vn/upload/rss/congnghethongtin.rss</string>
+    <string name="rssotoxemay">http://www.24h.com.vn/upload/rss/otoxemay.rss</string>
+    <string name="rssthitruong">http://www.24h.com.vn/upload/rss/thitruongtieudung.rss</string>
+    <string name="rsssuckhoe">http://www.24h.com.vn/upload/rss/suckhoedoisong.rss</string>
+    <string name="rsscuoi">http://www.24h.com.vn/upload/rss/cuoi24h.rss</string>
+    <string name="rssthegioi">http://www.24h.com.vn/upload/rss/tintucquocte.rss</string>
+    <string name="rssshowbiz">http://www.24h.com.vn/upload/rss/doisongshowbiz.rss</string>
+    <string name="rssgiaitri">http://www.24h.com.vn/upload/rss/giaitri.rss</string>
+
+    <string-array name="catalog24h">
+        <item>@string/tintuc</item>
+        <item>@string/bongda</item>
+        <item>@string/anninh</item>
+        <item>@string/thoitrang</item>
+        <item>@string/taichinh</item>
+        <item>@string/amthuc</item>
+        <item>@string/lamdep</item>
+        <item>@string/phim</item>
+        <item>@string/giaoduc</item>
+        <item>@string/cuocsong</item>
+        <item>@string/canhac</item>
+        <item>@string/thethao</item>
+        <item>@string/phithuong</item>
+        <item>@string/cntt</item>
+        <item>@string/otoxemay</item>
+        <item>@string/thitruong</item>
+        <item>@string/suckhoe</item>
+        <item>@string/cuoi</item>
+        <item>@string/thegioi</item>
+        <item>@string/showbiz</item>
+        <item>@string/giaitri</item>
+    </string-array>
+
+
+
+    <string-array name="arrrsscatalog24h">
+        <item>@string/rsstintuc</item>
+        <item>@string/rssbongda</item>
+        <item>@string/rssanninh</item>
+        <item>@string/rssthoitrang</item>
+        <item>@string/rsstaichinh</item>
+        <item>@string/rssamthuc</item>
+        <item>@string/rsslamdep</item>
+        <item>@string/rssphim</item>
+        <item>@string/rssgiaoduc</item>
+        <item>@string/rsscuocsong</item>
+        <item>@string/rsscanhac</item>
+        <item>@string/rssthethao</item>
+        <item>@string/rssphithuong</item>
+        <item>@string/rsscntt</item>
+        <item>@string/rssotoxemay</item>
+        <item>@string/rssthitruong</item>
+        <item>@string/rsssuckhoe</item>
+        <item>@string/rsscuoi</item>
+        <item>@string/rssthegioi</item>
+        <item>@string/rssshowbiz</item>
+        <item>@string/rssgiaitri</item>
+    </string-array>
+    <string name="name_24h">24h.com.vn</string>
+    <string name="name_dantri">dantri.com.vn</string>
+    <string name="name_vnexpress">vnexpress.net</string>
+    <string name="communicate">Communicate</string>
+    <string name="savedlink">Trang đã lưu</string>
+    <string name="about">Giới thiệu</string>
+    <string name="rate">Rate</string>
+    <string name="share">Chia sẻ</string>
+    <string name="facebook_app_id">625330324295683</string>
+    <string name="deleted">Đã xóa</string>
+    <string name="undo">Hoàn tác</string>
+    <string name="delete_all">Xóa tất cả</string>
+    <string name="sure_delete_all">Bạn chắc chắn muốn xóa tất cả?</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="setting">Cài đặt</string>
+    <string name="getnotification">Nhận thông báo</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="set_time">Chọn thời gian</string>
+    <string name="time">Thời gian</string>
+
+    <string name="banner_home_footer">ca-app-pub-6556365312940194/5277024862</string>
+    <string name="interstitial_full_screen">ca-app-pub-6556365312940194/7811688862</string>
+
+</resources>

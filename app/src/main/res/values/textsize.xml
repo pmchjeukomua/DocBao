@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="size_title_textview_readingnews">21</integer>
+    <integer name="size_pubdate_textview_readingnews">15</integer>
+    <integer name="size_first_paragraph_textview_readingnews">18</integer>
+    <integer name="size_paragraph_textview_readingnews">18</integer>
+</resources>

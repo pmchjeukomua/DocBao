@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_toolbar_find"
+        app:showAsAction="ifRoom"
+        android:title="Search" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_24h"
+            android:icon="@drawable/ic_24h"
+            android:title="@string/name_24h" />
+        <item
+            android:id="@+id/nav_vnexpress"
+            android:icon="@drawable/ic_dantri"
+            android:title="@string/name_vnexpress" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_saved_link"
+                android:icon="@drawable/ic_database"
+                android:title="@string/savedlink" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/setting" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+</menu>
